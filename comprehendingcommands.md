@@ -25,6 +25,20 @@
 
 ![image](https://github.com/user-attachments/assets/30f45aa4-91c2-4d2f-b5c0-7875f12c776b)
 
+7)Hidden files
+:files that start with . are hidden, and ls does not show the file containing it, so the ls -a command is used to show all the files containing . at the beginning and the file containing the flag is found and the cat command is used to open the file and capture the flag
+
+![image](https://github.com/user-attachments/assets/a33e3338-409e-4cc9-9cbe-6653de37a3fb)
+
+8)Making directories
+:here we create a directory /tmp/pwn by using the mkdir command and create a file in it and use the /challenge/run command to get the flag
+
+![image](https://github.com/user-attachments/assets/7c565432-a97e-4b9b-bd81-f7525eddbe2c)
+![image](https://github.com/user-attachments/assets/f2b23ebd-2f5c-4ecc-bd18-025dc365826b)
+
+
+
+
 
 
 
