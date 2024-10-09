@@ -14,3 +14,17 @@
 4)Grepping for a needle in a haystack
 :the flag is hidden in a huge file, so the test containing pwn.college is grepped out by giving the below command to find the flag as the flag always starts with 'pwn.college'
 ![image](https://github.com/user-attachments/assets/bc6132d5-6eb6-4cb1-822a-7da66dfb7fda)
+
+5)Touching files
+:we cd into the tmp folder and create two files pwn and college using the touch command and then use /challenge/run command to collect the flag
+
+![image](https://github.com/user-attachments/assets/63f110a5-a7bb-49fe-a9e1-bdf0873e0bee)
+
+6)Removing files
+:a file named delete_me is deleted using the rm command and the file name which is delete_me as the argument and /challenge/check is used to collect the flag
+
+![image](https://github.com/user-attachments/assets/30f45aa4-91c2-4d2f-b5c0-7875f12c776b)
+
+
+
+
