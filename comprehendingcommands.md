@@ -52,7 +52,7 @@
 
 ![image](https://github.com/user-attachments/assets/a63f2a73-f4f9-46a3-8bf2-d51fc48a6c07)
 
-11)Finding files
+11)linking files
 : 
 
 
