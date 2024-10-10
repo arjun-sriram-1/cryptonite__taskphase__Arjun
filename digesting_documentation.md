@@ -18,7 +18,17 @@ and get the flag
  : we use the help command and pass the argument challenge which shows the argument required to be passed to the challenge command which then gives the flag
 
  ![image](https://github.com/user-attachments/assets/7682671e-7bfd-42fd-b33f-7b8096f32c92)
- ![image](https://github.com/user-attachments/assets/1ec02cf3-aea6-494e-af60-a2797eb6a271)
+
+ 5)Learning complex usage
+ : printfile is an argument and we give another argument /flag which prints the path to the flag 
+ 
+![image](https://github.com/user-attachments/assets/6e4be46f-c36e-4df1-bf05-6bbb22572ea7)
+
+6)Helpful programs
+: use --help to check the commands to find the flag, first -p is used to print the secret value which is used while using the command -g were the secret value printed is the argument to -g and finally the flag is obtained
+
+![image](https://github.com/user-attachments/assets/26230174-7965-4d16-a2ca-03efc5d171ff)
+
 
 
  
