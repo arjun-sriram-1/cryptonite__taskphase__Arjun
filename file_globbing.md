@@ -25,6 +25,12 @@ find files which do not start with the letter p w or n
 
 ![image](https://github.com/user-attachments/assets/1d48744f-10d0-4cd6-91b3-9c992b74c916)
 
+6)Mixing globs
+: cd into the /challenge/files and then use /challenge/run [cep]* to find the flag
+
+![image](https://github.com/user-attachments/assets/e7146265-6285-46ec-bded-91c0050a6410)
+
+
 
 
 
