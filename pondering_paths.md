@@ -28,6 +28,24 @@
 
 ![image](https://github.com/user-attachments/assets/cb47d00d-0da0-4c4b-91db-3b56eb18d8e2)
 
+7)Position thy self
+: we run the /challenge/run command to find the path to the directory then we cd to the given directory then run the /challenge/run command to obtain the flag
+
+![image](https://github.com/user-attachments/assets/4e6c8c34-25d7-4bf4-8d77-5771f1560de7)
+
+8)Position elsewhere
+: we use command /challenge/run to obtain the path to the directory then use cd to change directory to the given directory then use /challenge/run again to obtain the flag
+
+![image](https://github.com/user-attachments/assets/e4901ca8-4102-4409-8b4b-96d0caa1720a)
+
+9)Position yet elsewhere
+: same as above
+
+![image](https://github.com/user-attachments/assets/4cd6da89-fffb-48ee-96e1-3342f3145961)
+
+
+
+
 
 
 
