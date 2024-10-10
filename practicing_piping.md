@@ -65,6 +65,9 @@ The >( ) syntax allows for process substitution, directing the output to another
 
 ![image](https://github.com/user-attachments/assets/f986e228-4018-4bb3-b557-40e951411c78)
 
+11)Duplicating piped data with tee
+: 
+![image](https://github.com/user-attachments/assets/4be6d750-6f93-4977-be22-53e5fda4c3ed)
 
 
 
