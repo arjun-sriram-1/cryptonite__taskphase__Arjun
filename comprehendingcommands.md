@@ -36,6 +36,30 @@
 ![image](https://github.com/user-attachments/assets/7c565432-a97e-4b9b-bd81-f7525eddbe2c)
 ![image](https://github.com/user-attachments/assets/f2b23ebd-2f5c-4ecc-bd18-025dc365826b)
 
+9)Listing files
+: we use the command ls /challenge to list the files in the in directory challenge to find the renamed file and then use its absolute path to obtain the flag
+
+![image](https://github.com/user-attachments/assets/5cb3e9a1-eb18-44f1-b221-8110d7dcc73b)
+
+10)An epic filesystem quest
+
+
+![image](https://github.com/user-attachments/assets/261aa037-dfa7-4df9-877b-086660d16b3a)
+
+![image](https://github.com/user-attachments/assets/f2b98dbd-58a2-4f88-b164-aeb4be2a066f)
+
+![image](https://github.com/user-attachments/assets/294be134-5042-4a5b-9d0b-5117f5a37233)
+
+![image](https://github.com/user-attachments/assets/a63f2a73-f4f9-46a3-8bf2-d51fc48a6c07)
+
+11)Finding files
+: 
+
+
+
+
+
+
 
 
 
